@@ -73,6 +73,7 @@ template_repo: "https://github.com/carpentries/styles"
 training_site: "https://carpentries.github.io/instructor-training"
 workshop_repo: "https://github.com/carpentries/workshop-template"
 workshop_site: "https://carpentries.github.io/workshop-template"
+surf_sara_site: "https://www.surfsara.nl/"
 
 # Surveys.
 pre_survey: "https://carpentries.typeform.com/to/wi32rS?slug="
