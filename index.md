@@ -154,13 +154,7 @@ special instructions.
 {% endcomment %}
 <p id="accessibility">
   <strong>Accessibility:</strong> We are committed to making this workshop
-  accessible to everybody.
-  The workshop organizers have checked that:
-</p>
-<ul>
-  <li>The room is wheelchair / scooter accessible.</li>
-  <li>Accessible restrooms are available.</li>
-</ul>
+  accessible to everybody. Please let us know if you have any accessibility requirements.
 <p>
   Materials will be provided in advance of the workshop and
   large-print handouts are available if needed by notifying the
